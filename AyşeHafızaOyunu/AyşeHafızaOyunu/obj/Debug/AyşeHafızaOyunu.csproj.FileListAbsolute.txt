@@ -1,0 +1,11 @@
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\bin\Debug\AyşeHafızaOyunu.exe.config
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\bin\Debug\AyşeHafızaOyunu.exe
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\bin\Debug\AyşeHafızaOyunu.pdb
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\obj\Debug\AyşeHafızaOyunu.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\obj\Debug\AyşeHafızaOyunu.Form1.resources
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\obj\Debug\AyşeHafızaOyunu.Properties.Resources.resources
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\obj\Debug\AyşeHafızaOyunu.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\obj\Debug\AyşeHafızaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\obj\Debug\AyşeHafızaOyunu.exe
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\obj\Debug\AyşeHafızaOyunu.pdb
+C:\Users\Mrs Engineer\source\repos\AyşeHafızaOyunu\AyşeHafızaOyunu\obj\Debug\AyşeHafızaOyunu.GirişOyunTanıtımı.resources
